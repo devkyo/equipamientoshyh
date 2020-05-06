@@ -1,0 +1,15 @@
+{
+  "name": "equipamientoshyh.com",
+  "version": "1.0.1",
+  "description": "A simple frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " A simple frontend basic"
+  },
+  "author": "Reactive",
+  "license": "ISC"
+}
